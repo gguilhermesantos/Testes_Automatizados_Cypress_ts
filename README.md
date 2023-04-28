@@ -145,8 +145,7 @@ git push -u origin master
 * [Gherkin no cypress](https://dev.to/leading-edje/using-gherkin-with-your-cypress-tests-4p20)
 * [Page Object no Cypress](https://dev.to/leading-edje/using-page-objects-in-cypress-co9)
 * [Caso de config do cypress](https://dev.to/kailashpathak7/how-to-integrate-bdd-cucumber-in-cypress-10-50ef)
-* [Github utilizado no projeto](https://github.com/bahmutov/cypress-esbuild-preprocessor)
-* [Github utilizado no projeto](https://github.com/badeball/cypress-cucumber-preprocessor)
+* [Github utilizado no projeto](https://github.com/samlucax/samlucax)
 * [Cucumber no cypress 10](https://dev.to/kailashpathak7/how-to-integrate-bdd-cucumber-in-cypress-10-50ef)
 * [Site sobre cypress](https://talkingabouttesting.com/)
 
